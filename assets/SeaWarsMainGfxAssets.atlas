@@ -1,0 +1,1006 @@
+
+SeaWarsMainGfxAssets.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Aerogli
+  rotate: false
+  xy: 1867, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+Arbre
+  rotate: false
+  xy: 2008, 1612
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arbre2
+  rotate: false
+  xy: 2008, 1700
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arbre3
+  rotate: false
+  xy: 473, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arbre4
+  rotate: false
+  xy: 2008, 1546
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arbre5
+  rotate: false
+  xy: 2008, 1788
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arbre6
+  rotate: false
+  xy: 2008, 1348
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Arbre7
+  rotate: false
+  xy: 2008, 1634
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Awac
+  rotate: false
+  xy: 2008, 1568
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+AwacDark
+  rotate: false
+  xy: 2008, 1590
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+AwacLight
+  rotate: false
+  xy: 649, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+AwacR
+  rotate: false
+  xy: 2008, 1458
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+AwacRDark
+  rotate: false
+  xy: 2008, 1722
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+AwacRLight
+  rotate: false
+  xy: 1750, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BallGold1
+  rotate: false
+  xy: 2008, 1874
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+BallGold3
+  rotate: false
+  xy: 1437, 6
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+BallGold4
+  rotate: false
+  xy: 1950, 22
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BallNorm1
+  rotate: false
+  xy: 2008, 1810
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+BallNorm3
+  rotate: false
+  xy: 1091, 10
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+BallSilver1
+  rotate: false
+  xy: 2008, 1842
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+BallSilver3
+  rotate: false
+  xy: 1529, 6
+  size: 90, 30
+  orig: 90, 30
+  offset: 0, 0
+  index: -1
+BaseSmall
+  rotate: false
+  xy: 2008, 1744
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BaseSmallAllies
+  rotate: false
+  xy: 671, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BaseSmallDest
+  rotate: false
+  xy: 693, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BaseSmallEne
+  rotate: false
+  xy: 495, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BigContainer
+  rotate: false
+  xy: 745, 3
+  size: 142, 25
+  orig: 142, 25
+  offset: 0, 0
+  index: -1
+BigContainer2
+  rotate: false
+  xy: 947, 15
+  size: 142, 25
+  orig: 142, 25
+  offset: 0, 0
+  index: -1
+BoatBig
+  rotate: false
+  xy: 200, 7
+  size: 97, 15
+  orig: 97, 15
+  offset: 0, 0
+  index: -1
+BoatCorvetteEne
+  rotate: false
+  xy: 381, 6
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+BoatCruiser3
+  rotate: false
+  xy: 1703, 24
+  size: 80, 12
+  orig: 80, 12
+  offset: 0, 0
+  index: -1
+BoatCruiserEne
+  rotate: false
+  xy: 299, 9
+  size: 80, 13
+  orig: 80, 13
+  offset: 0, 0
+  index: -1
+BoatDestroyer
+  rotate: false
+  xy: 381, 13
+  size: 68, 9
+  orig: 68, 9
+  offset: 0, 0
+  index: -1
+BoatDestroyerEne
+  rotate: false
+  xy: 961, 4
+  size: 68, 9
+  orig: 68, 9
+  offset: 0, 0
+  index: -1
+BoatFrigate3
+  rotate: false
+  xy: 299, 2
+  size: 39, 5
+  orig: 39, 5
+  offset: 0, 0
+  index: -1
+BoatFrigateEne
+  rotate: false
+  xy: 340, 2
+  size: 39, 5
+  orig: 39, 5
+  offset: 0, 0
+  index: -1
+BoatMed
+  rotate: false
+  xy: 889, 2
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+BoatSmall
+  rotate: false
+  xy: 889, 16
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+BoatCorvette
+  rotate: false
+  xy: 889, 16
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+BoatSmallAllies
+  rotate: false
+  xy: 889, 23
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+BoatSmallEne
+  rotate: false
+  xy: 1255, 7
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+Carrier
+  rotate: false
+  xy: 118, 2
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+Carrier2
+  rotate: false
+  xy: 1621, 12
+  size: 80, 24
+  orig: 80, 24
+  offset: 0, 0
+  index: -1
+Carrier3
+  rotate: false
+  xy: 1808, 42
+  size: 140, 42
+  orig: 140, 42
+  offset: 0, 0
+  index: -1
+CarrierSmall
+  rotate: false
+  xy: 925, 23
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+CarrierSmallAllies
+  rotate: false
+  xy: 2008, 1319
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+CarrierSmallEne
+  rotate: false
+  xy: 925, 16
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+CarrierSmallOur
+  rotate: false
+  xy: 1785, 31
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+CivilBoatBig
+  rotate: false
+  xy: 1808, 19
+  size: 140, 21
+  orig: 140, 21
+  offset: 0, 0
+  index: -1
+CivilBoatBig2
+  rotate: false
+  xy: 2, 2
+  size: 114, 20
+  orig: 114, 20
+  offset: 0, 0
+  index: -1
+CivilBoatSmall
+  rotate: false
+  xy: 1031, 8
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+CivilBoatSmall2
+  rotate: false
+  xy: 1183, 2
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+CivilBoatSmall3
+  rotate: false
+  xy: 1219, 2
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+Confro
+  rotate: false
+  xy: 2008, 1946
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+EmptyBig2
+  rotate: false
+  xy: 1310, 14
+  size: 125, 22
+  orig: 125, 22
+  offset: 0, 0
+  index: -1
+Excl16
+  rotate: false
+  xy: 2030, 1774
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Excl32
+  rotate: false
+  xy: 2008, 1980
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+GazBig
+  rotate: false
+  xy: 1183, 14
+  size: 125, 22
+  orig: 125, 22
+  offset: 0, 0
+  index: -1
+Int16
+  rotate: false
+  xy: 2030, 1792
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+Int32
+  rotate: false
+  xy: 2008, 2014
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Lose
+  rotate: false
+  xy: 1406, 1244
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+MainBase1
+  rotate: false
+  xy: 1808, 86
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+MapRef
+  rotate: false
+  xy: 704, 1246
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+MapRefBases
+  rotate: false
+  xy: 2, 444
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+MapRefBoats
+  rotate: false
+  xy: 704, 444
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+MapVis
+  rotate: false
+  xy: 2, 1246
+  size: 700, 800
+  orig: 700, 800
+  offset: 0, 0
+  index: -1
+No_ammo_left
+  rotate: false
+  xy: 1406, 440
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+Note
+  rotate: false
+  xy: 2008, 1656
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NoteOff
+  rotate: false
+  xy: 2008, 1524
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NoteOffSel
+  rotate: false
+  xy: 2008, 1678
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NoteOffSel2
+  rotate: false
+  xy: 583, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NoteSel2
+  rotate: false
+  xy: 561, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NoteSel3
+  rotate: false
+  xy: 2008, 1436
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Nuage1
+  rotate: false
+  xy: 1960, 156
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Nuage3
+  rotate: false
+  xy: 1960, 74
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+RoseVent21
+  rotate: false
+  xy: 1808, 238
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+SelEne
+  rotate: false
+  xy: 2008, 1502
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SelEne50
+  rotate: false
+  xy: 605, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SelNor
+  rotate: false
+  xy: 715, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SelUnknown
+  rotate: false
+  xy: 2008, 1766
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SelVis25
+  rotate: false
+  xy: 2008, 1370
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SelVis50
+  rotate: false
+  xy: 627, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SmokeClear
+  rotate: false
+  xy: 2002, 32
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Speaker
+  rotate: false
+  xy: 2008, 1326
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpeakerOff
+  rotate: false
+  xy: 2008, 1414
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpeakerPre
+  rotate: false
+  xy: 451, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpeakerPre2
+  rotate: false
+  xy: 2008, 1480
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpeakerPre2On
+  rotate: false
+  xy: 2008, 1392
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpeakerPreOn
+  rotate: false
+  xy: 517, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpeedBarre
+  rotate: false
+  xy: 745, 30
+  size: 200, 10
+  orig: 200, 10
+  offset: 0, 0
+  index: -1
+SpeedCursor
+  rotate: false
+  xy: 1291, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+Sub
+  rotate: false
+  xy: 1772, 2
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+Sub3D
+  rotate: false
+  xy: 2002, 16
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+Sub3DEne
+  rotate: false
+  xy: 1893, 3
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+Sub3DEne2
+  rotate: false
+  xy: 1703, 8
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+ToitOrth
+  rotate: false
+  xy: 539, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+TourPene
+  rotate: false
+  xy: 2008, 1906
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+Unknown
+  rotate: false
+  xy: 604, 42
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+WP
+  rotate: false
+  xy: 1935, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+Water3
+  rotate: false
+  xy: 1406, 1646
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+WaterSplash2
+  rotate: false
+  xy: 2, 42
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+WaterSplash3
+  rotate: false
+  xy: 1206, 38
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+Win
+  rotate: false
+  xy: 1406, 842
+  size: 600, 400
+  orig: 600, 400
+  offset: 0, 0
+  index: -1
+maison
+  rotate: false
+  xy: 1814, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+system.font
+  rotate: false
+  xy: 2, 24
+  size: 741, 16
+  orig: 741, 16
+  offset: 0, 0
+  index: -1
+voilier
+  rotate: false
+  xy: 1841, 2
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+
+SeaWarsMainGfxAssets2.png
+size: 2048, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+AuraB
+  rotate: false
+  xy: 286, 88
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+AuraBall2
+  rotate: false
+  xy: 846, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+AzaTree
+  rotate: false
+  xy: 1560, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BallCristal
+  rotate: false
+  xy: 338, 102
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BallGold2
+  rotate: false
+  xy: 618, 122
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+BallNorm2
+  rotate: false
+  xy: 556, 122
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+BallNorm4
+  rotate: false
+  xy: 390, 102
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BallShining
+  rotate: false
+  xy: 442, 102
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BallSilver2
+  rotate: false
+  xy: 494, 122
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+BallSilver4
+  rotate: false
+  xy: 204, 6
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Base1
+  rotate: false
+  xy: 438, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Base1Dest
+  rotate: false
+  xy: 1254, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Base2
+  rotate: false
+  xy: 1152, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Base2Dest
+  rotate: false
+  xy: 540, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Bc
+  rotate: false
+  xy: 154, 140
+  size: 180, 114
+  orig: 180, 114
+  offset: 0, 0
+  index: -1
+CarrierEne
+  rotate: false
+  xy: 1764, 212
+  size: 140, 42
+  orig: 140, 42
+  offset: 0, 0
+  index: -1
+Drac
+  rotate: false
+  xy: 948, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+EgliseBois
+  rotate: false
+  xy: 1958, 204
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Flash
+  rotate: false
+  xy: 722, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Flash2
+  rotate: false
+  xy: 890, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Flash3
+  rotate: false
+  xy: 680, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Flash4
+  rotate: false
+  xy: 932, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Fleche
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+Ghost
+  rotate: false
+  xy: 1458, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+MainBase1Destroyed
+  rotate: false
+  xy: 2, 104
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Nuage2
+  rotate: false
+  xy: 204, 58
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Pacman
+  rotate: false
+  xy: 642, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+RoseVent22
+  rotate: false
+  xy: 336, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SmallBase1
+  rotate: false
+  xy: 744, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SmallBase1Destroyed
+  rotate: false
+  xy: 1050, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SmallBase2
+  rotate: false
+  xy: 1662, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SmallBase2Destroyed
+  rotate: false
+  xy: 1356, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Smoke2
+  rotate: false
+  xy: 806, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+SmokeDark
+  rotate: false
+  xy: 848, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+SmokeDarkOpa
+  rotate: false
+  xy: 764, 112
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Sub3D2
+  rotate: false
+  xy: 1764, 170
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+chateau
+  rotate: false
+  xy: 1906, 204
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
